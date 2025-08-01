@@ -1,4 +1,4 @@
-I'm 20, im doing smart contract security and mainly focused on auditing Solidity/Vyper/Rust(evm-solana) codebases. 
+I'm 20, doing smart contract security and mainly focused on auditing Solidity/Vyper/Rust(evm-solana) codebases. 
 
 I’ve participated in a number of audit contests, with multiple top placements across well-known platforms. I’ve also led and completed a few solo projcets and testing projects
 
