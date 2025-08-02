@@ -40,3 +40,15 @@ Whether it's a contest, a private audit, or an independent test, I bring a pract
 | Date         | Project         | Language   | Output         |
 |--------------|------------------|------------|----------------|
 | July 2025    | UI Changes For [Possum lab](https://www.possumlabs.io)      | NextJS   | [LINK](https://possumportals-git-dev-possumlabs.vercel.app/)  |
+
+
+
+# <a name="Profiles"></a>Profiles
+
+| Host         | Profile Name   | Link                                                                |
+| ------------ | -------------- | ------------------------------------------------------------------- |
+| Sherlock     | Avci   | [Link](https://audits.sherlock.xyz/watson/Avci)             |
+| Hats.Finance | 0xambargo   | [Link](https://app.hats.finance/profile/0xambargo)               |
+| Cantina      | Avci | [Link](https://cantina.xyz/u/avci)                                 |
+| Code4rena    | Avci   | [Link](https://code4rena.com/@avci)                         |
+| Codehawks    | Avci   | [Link](https://profiles.cyfrin.io/u/avci) |
